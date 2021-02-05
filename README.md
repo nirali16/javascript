@@ -49,6 +49,7 @@
    * 3.do-while *
     
    * The while loop has the following syntax:
+    
     ```
      while (condition)
      {
@@ -58,7 +59,7 @@
      ```
     
      
- * The do -while loop has syntax:
+   * The do -while loop has syntax:
     
     ```
      do {
@@ -74,13 +75,14 @@
       }  
      ```
    
-   ** Javascript  statements **
+   **Javascript  statements**
     * if-else
     
     * switch
     
   # Javascript fundamentals
    **Interaction: alert, prompt, confirm**
+   
     * ALERT=alert(" ");
     * It shows a message and waits for the user to press “OK”.
     
