@@ -13,7 +13,9 @@
  **Javascript variables** 
  * JavaScript variables are containers for storing data values.
  * ex:
- ```
+  ```
   var x = 5;
   var y = 6;
   var z = x + y;
+
+ ```
