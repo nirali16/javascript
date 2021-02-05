@@ -19,6 +19,14 @@
   var z = x + y;
  ```
  **Javascript operators**
- * Assignment-=,+=,..
- * Arithmetic-+,-.*...
- * 
+   Types                |      Description
+   ---------------------|-------------------
+ * Assignment operator-=,+=,..
+ * Arithmetic operator-+,-.*...
+ * String-'+' operator to concate the strings.
+ * Comparison-==,>,<...
+ * logical-&&,!,
+ * Bitwise-&,~,..
+ 
+ **Javascript datatypes**
+ *
