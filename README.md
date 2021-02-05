@@ -19,14 +19,13 @@
   var z = x + y;
  ```
  **Javascript operators**
-   Types                |      Description
-   ---------------------|-------------------
-    Assignment operator |-,+,=,..
-    Arithmetic operator |+,-.*...
-    String               '+' operator to concate the strings.
-    Comparison             ==,>,<...
-    logical                &&,!,
-    Bitwise                &,~,..
+ 
+    * Assignment operator -+,=,....
+    * Arithmetic operator -+,-,*,...
+    * String operator- '+' operator to concate the strings.
+    * Comparison operator - ==,>,<...
+    * logical operator-&&,!,
+    * Bitwise operator-&,~,..
  >
  
  
@@ -55,18 +54,21 @@
      // code
      // so-called "loop body"
     }
+    
     ```
    * The do -while loop has syntax:
     ```
      do {
      // loop body
       }  while (condition);
+      
      ```
     * The for loop has syntax:
      ```
       for (begin; condition; step) {
       // ... loop body ...
       }
+      
      ```
    
     
