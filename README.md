@@ -72,13 +72,14 @@
       }  
      ```
    
-   **Javascript  statements**
-    *if-else
-    *switch
+   ** Javascript  statements **
+    * if-else
     
-  #Javascript fundamentals
-   **Interaction: alert, prompt, confirm**
-    *ALERT
+    * switch
+    
+  # Javascript fundamentals
+   ** Interaction: alert, prompt, confirm **
+    * ALERT
     >alert("hello");
     * It shows a message and waits for the user to press “OK”.
 
