@@ -40,8 +40,9 @@
     Null	              |represents null i.e. no value at all
     
   **Javascript loops**
+  
    1.while
-   1.for
+   2.for
 
     
     
