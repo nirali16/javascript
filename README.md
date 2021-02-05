@@ -26,7 +26,7 @@
     * Comparison operator - ==,>,<...
     * logical operator-&&,!,
     * Bitwise operator-&,~,..
- >
+ 
  
  
  **Javascript datatypes**
@@ -42,21 +42,23 @@
     
   **Javascript loops**
   
-   *1.while*
+   * 1.while *
    
-   *2.for*
+   * 2.for *
    
-   *3.do-while*
+   * 3.do-while *
     
    * The while loop has the following syntax:
     ```
-     while (condition) {
+     while (condition)
+     {
      // code
      // so-called "loop body"
-    }
+     }
+     ```
     
-    ```
-   * The do -while loop has syntax:
+     
+ * The do -while loop has syntax:
     
     ```
      do {
@@ -78,14 +80,14 @@
     * switch
     
   # Javascript fundamentals
-   ** Interaction: alert, prompt, confirm **
-    * ALERT
-    >alert("hello");
+   **Interaction: alert, prompt, confirm**
+    * ALERT=alert(" ");
     * It shows a message and waits for the user to press “OK”.
-
-
-
-
     
+    * PROMPT=promt("msg");
+    * It shows a modal window with a text message, an input field for the visitor, and the buttons OK/Cancel.
     
-    
+
+    * CONFIRM= result=confirm(question);
+    * The function confirm shows a modal window with a question and two buttons: OK and Cancel.
+   
