@@ -57,20 +57,34 @@
     
     ```
    * The do -while loop has syntax:
+    
     ```
      do {
      // loop body
       }  while (condition);
-      
-     ```
+    ```
+    
     * The for loop has syntax:
+     
      ```
       for (begin; condition; step) {
       // ... loop body ...
-      }
-      
+      }  
      ```
    
+   **Javascript  statements**
+    *if-else
+    *switch
+    
+  #Javascript fundamentals
+   **Interaction: alert, prompt, confirm**
+    *ALERT
+    >alert("hello");
+    * It shows a message and waits for the user to press “OK”.
+
+
+
+
     
     
     
