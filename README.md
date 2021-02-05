@@ -1,1 +1,12 @@
-# javascript
+
+### Define-JavaScript is a programming language commonly used in web development.It is based on ECMAScript and is a client-side scripting language.
+
+### Why it is used,like example-a JavaScript function may check a web form before it is submitted to make sure all the required fields have been filled out. The JavaScript code can produce an error message before any information is actually transmitted to the server.
+
+### Why it is called javascript-When JavaScript was created, it initially had another name: “LiveScript”.
+
+## In HTML javascript is used inside <script> tag.
+  
+## A JavaScript program is a list of programming statements.JavaScript statements are composed of:Values, Operators, Expressions, Keywords, and Comments.
+
+##
