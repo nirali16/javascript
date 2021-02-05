@@ -21,12 +21,23 @@
  **Javascript operators**
    Types                |      Description
    ---------------------|-------------------
-   * Assignment operator  |-,+,=,..
-   * Arithmetic operator  |+,-.*...
-    String                '+' operator to concate the strings.
-   Comparison             ==,>,<...
-   logical                &&,!,
-   Bitwise                &,~,..
+    Assignment operator |-,+,=,..
+    Arithmetic operator |+,-.*...
+    String               '+' operator to concate the strings.
+    Comparison             ==,>,<...
+    logical                &&,!,
+    Bitwise                &,~,..
  
  **Javascript datatypes**
- *
+  * There are two types of data types in JavaScript. Primitive data type and Non-primitive (reference) data type.
+  * This are primitive datatypes.
+    Types               | Discription
+    --------------------|----------------
+    String	            |represents sequence of characters e.g. "hello"
+    Number	            | represents numeric values e.g. 100
+    Boolean             |	represents boolean value either false or true
+    Undefined	          |represents undefined value
+    Null	              |represents null i.e. no value at all
+
+    
+    
