@@ -8,6 +8,12 @@
 # What is include in Javascript
  * In HTML javascript is used inside <script> tag.
   
-## A JavaScript program is a list of programming statements.JavaScript statements are composed of:Values, Operators, Expressions, Keywords, and Comments.
+ * A JavaScript program is a list of programming statements.JavaScript statements are composed of:Values, Operators, Expressions, Keywords, and Comments.
 
-##
+ ** Javascript variables.** 
+ * JavaScript variables are containers for storing data values.
+ * ex:
+ ```
+  var x = 5;
+ var y = 6;
+ var z = x + y;
