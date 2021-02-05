@@ -21,12 +21,12 @@
  **Javascript operators**
    Types                |      Description
    ---------------------|-------------------
- * Assignment operator-=,+=,..
- * Arithmetic operator-+,-.*...
- * String-'+' operator to concate the strings.
- * Comparison-==,>,<...
- * logical-&&,!,
- * Bitwise-&,~,..
+   Assignment operator  |-,+,=,..
+   Arithmetic operator  |+,-.*...
+   String               |\ '+' operator to concate the strings.
+   Comparison-==,>,<...
+   logical-&&,!,
+   Bitwise-&,~,..
  
  **Javascript datatypes**
  *
