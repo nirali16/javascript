@@ -21,9 +21,9 @@
  **Javascript operators**
    Types                |      Description
    ---------------------|-------------------
-   Assignment operator  |-,+,=,..
-   Arithmetic operator  |+,-.*...
-   String                '+' operator to concate the strings.
+   * Assignment operator  |-,+,=,..
+   * Arithmetic operator  |+,-.*...
+    String                '+' operator to concate the strings.
    Comparison             ==,>,<...
    logical                &&,!,
    Bitwise                &,~,..
