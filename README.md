@@ -41,8 +41,9 @@
     
   **Javascript loops**
   
-   1.while
-   2.for
+   *1.while*
+   
+   *2.for*
 
     
     
