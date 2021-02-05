@@ -49,20 +49,20 @@
    
    *3.do-while*
     
-   > The while loop has the following syntax:
+   * The while loop has the following syntax:
     ```
      while (condition) {
      // code
      // so-called "loop body"
     }
     ```
-   > The do -while loop has syntax:
+   * The do -while loop has syntax:
     ```
      do {
      // loop body
       }  while (condition);
      ```
-    > The for loop has syntax:
+    * The for loop has syntax:
      ```
       for (begin; condition; step) {
       // ... loop body ...
