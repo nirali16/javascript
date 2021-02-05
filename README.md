@@ -42,11 +42,11 @@
     
   **Javascript loops**
   
-   * 1.while *
+   * 1.while 
    
-   * 2.for *
+   * 2.for 
    
-   * 3.do-while *
+   * 3.do-while 
     
    * The while loop has the following syntax:
     
@@ -64,10 +64,10 @@
     ```
      do {
      // loop body
-      }  while (condition);
+      }  while (condition)   
     ```
     
-    * The for loop has syntax:
+   * The for loop has syntax:
      
      ```
       for (begin; condition; step) {
@@ -76,6 +76,7 @@
      ```
    
    **Javascript  statements**
+    
     * if-else
     
     * switch
