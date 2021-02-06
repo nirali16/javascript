@@ -81,7 +81,7 @@
     
     * switch
     
-  # Javascript fundamentals
+  # Javascript functions
    **Interaction: alert, prompt, confirm**
    
     * ALERT=alert(" ");
