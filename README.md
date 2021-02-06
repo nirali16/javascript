@@ -50,7 +50,7 @@
     
    * The while loop has the following syntax:
     
-    ```
+     ```
      while (condition)
      {
      // code
@@ -61,19 +61,19 @@
      
    * The do -while loop has syntax:
     
-    ```
+     ```
      do {
      // loop body
       }  while (condition)   
-    ```
+     ```
     
    * The for loop has syntax:
      
-     ```
+      ```
       for (begin; condition; step) {
       // ... loop body ...
       }  
-     ```
+      ```
    
    **Javascript  statements**
     
@@ -87,7 +87,7 @@
     * ALERT=alert(" ");
     * It shows a message and waits for the user to press “OK”.
     
-    * PROMPT=promt("msg");
+    * PROMPT=prompt("msg");
     * It shows a modal window with a text message, an input field for the visitor, and the buttons OK/Cancel.
     
 
